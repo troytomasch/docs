@@ -36,6 +36,8 @@ h1 {
 }
 ```
 
+![image](https://github.com/Codecademy/docs/assets/55467325/a6b5c4b1-05a7-4bd7-822f-54b19c6f2e56)
+
 ## Example 2
 
 Set the font color of the `h1` element to be black:
@@ -46,6 +48,8 @@ h1 {
 }
 ```
 
+![image](https://github.com/Codecademy/docs/assets/55467325/dceef83e-ca48-4b2b-92a6-6763ab214371)
+
 ## Example 3
 
 Set the font color of the `h1` element to be a lavender color:
@@ -55,3 +59,6 @@ h1 {
   color: rgb(230, 230, 250);
 }
 ```
+
+![image](https://github.com/Codecademy/docs/assets/55467325/4ab49390-b9f4-4fc0-b935-9a2b0a8b1377)
+
